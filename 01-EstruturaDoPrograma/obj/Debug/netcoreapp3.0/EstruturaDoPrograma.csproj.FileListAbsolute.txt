@@ -1,0 +1,14 @@
+D:\Projetos\Curso_CSharp_DIO\Exercicios_Dotnet\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.exe
+D:\Projetos\Curso_CSharp_DIO\Exercicios_Dotnet\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.deps.json
+D:\Projetos\Curso_CSharp_DIO\Exercicios_Dotnet\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.runtimeconfig.json
+D:\Projetos\Curso_CSharp_DIO\Exercicios_Dotnet\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.runtimeconfig.dev.json
+D:\Projetos\Curso_CSharp_DIO\Exercicios_Dotnet\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.dll
+D:\Projetos\Curso_CSharp_DIO\Exercicios_Dotnet\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.pdb
+D:\Projetos\Curso_CSharp_DIO\Exercicios_Dotnet\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.csproj.AssemblyReference.cache
+D:\Projetos\Curso_CSharp_DIO\Exercicios_Dotnet\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Curso_CSharp_DIO\Exercicios_Dotnet\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
+D:\Projetos\Curso_CSharp_DIO\Exercicios_Dotnet\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.AssemblyInfo.cs
+D:\Projetos\Curso_CSharp_DIO\Exercicios_Dotnet\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+D:\Projetos\Curso_CSharp_DIO\Exercicios_Dotnet\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.dll
+D:\Projetos\Curso_CSharp_DIO\Exercicios_Dotnet\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.pdb
+D:\Projetos\Curso_CSharp_DIO\Exercicios_Dotnet\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.genruntimeconfig.cache
